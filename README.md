@@ -152,8 +152,8 @@ python-dateutil>=2.8.2
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-assisted-network-traffic.git
-cd ai-assisted-network-traffic
+git clone https://github.com/mahmoudbahney/AI-Assisted-Network-Traffic-Analysis.git
+cd AI-Assisted-Network-Traffic-Analysis
 ```
 
 ### 2. Install Dependencies
@@ -493,8 +493,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions and inquiries:
-- Email: your.email@example.com
-- GitHub Issues: [github.com/yourusername/ai-assisted-network-traffic/issues](https://github.com/yourusername/ai-assisted-network-traffic/issues)
+- GitHub Issues: [github.com/mahmoudbahney/AI-Assisted-Network-Traffic-Analysis/issues](https://github.com/mahmoudbahney/AI-Assisted-Network-Traffic-Analysis/issues)
 
 ---
 
